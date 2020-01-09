@@ -12,7 +12,7 @@ Run `npm install`
 
 Run `npm start`
  
-visit [http://localhost:8086](http://localhost:8086)
+visit [http://localhost:3000](http://localhost:3000)
 
 That's all!
 -----------
